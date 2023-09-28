@@ -1,4 +1,4 @@
-# Form
+# LoginForm
 
 Diseño de formulario de inicio de sesión/registro con control en los campos de registro mediante JS. Es totalmente responsive y con un botón para poder ver la contraseña que se está escribiendo. También dispone de animaciones a la hora de hacer el cambio entre inicio de sesión y registro.
 
